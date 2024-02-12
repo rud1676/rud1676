@@ -15,22 +15,21 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Mui/design&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mui-06B6D4?style=flat-square&logo=Mui/design&logoColor=white"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
  </p>
 <h4 align="left"><b>Back</b></h4>
 <p align="left">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=nodejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodejs-007396?style=flat-square&logo=nodejs&logoColor=white"/>
 
  </p>
-<h4 align="left"><b>App</b></h4>
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
- </p>
-<h4 align="left"><b>Etc..</b></h4>
+<h4 align="left"><b>Data</b></h4>
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElasticSearch-ff9900?style=flat-square&logo=elasticsearch&logoColor=white"/>
+
+  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
