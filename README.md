@@ -7,21 +7,23 @@
 - 🚁 드론 실시간 모니터링 앱 - 무한정보기술 (2023.09-2023.10)
 - 🧾 가자지구 응원 메세지 전달 프로젝트 (2023.12-2024.02)
   
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chms03330">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rud1676">
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="left"><b>Front</b></h4>
 <p align="left">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mui-06B6D4?style=flat-square&logo=Mui/design&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mui-007FFF?style=flat-square&logo=mui/design&logoColor=white"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
  </p>
 <h4 align="left"><b>Back</b></h4>
 <p align="left">
 <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodejs-007396?style=flat-square&logo=nodejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodejs-007396?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
 
  </p>
 <h4 align="left"><b>Data</b></h4>
@@ -29,9 +31,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/ElasticSearch-ff9900?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
-  
+<h4 align="left"><b>Etc...</b></h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 <!--
