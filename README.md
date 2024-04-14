@@ -1,12 +1,4 @@
-### Hi there 👋
 
-- 💻 나의 코드에 관심을 가져주는 것을 좋아합니다.
-
-### Project
-- ✈️ 시네스투어(여행일정관리+패키지여행구매 플랫폼) - 씨팩토리 (2023.10-2023.12)
-- 🚁 드론 실시간 모니터링 앱 - 무한정보기술 (2023.09-2023.10)
-- 🧾 가자지구 응원 메세지 전달 프로젝트 (2023.12-2024.02)
-  
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rud1676">
 
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
