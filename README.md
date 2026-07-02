@@ -68,9 +68,8 @@ Built automated translation support (Khmer, Spanish, via Azure Translator) for u
 
 ## GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rud1676&show_icons=true&count_private=true&theme=default)
-
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frud1676&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![GitHub followers](https://img.shields.io/github/followers/rud1676?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)
+![GitHub stars](https://img.shields.io/github/stars/rud1676?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)
 
 ## $ whoami
 
@@ -78,7 +77,6 @@ Built automated translation support (Khmer, Spanish, via Azure Translator) for u
 const daniel = {
   role: "Fullstack Engineer, Frontend-heavy",
   location: "Korea",
-  company: "Crest",
   focus: [
     "Frontend design systems & architecture",
     "AI-assisted testing workflows",
