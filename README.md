@@ -41,13 +41,13 @@ Diagnosed and fixed deadlocks via request serialization, and resolved race condi
 </td>
 <td width="50%" valign="top">
 
-### Multi-Language Localization Pipeline
+### End-to-End Feature Ownership: Voting System
 
-Built automated translation support (Khmer, Spanish, via Azure Translator) for user-generated content, extending a Korean-first platform into a multi-country product.
+Designed and shipped a voting feature from the ground up — schema and migrations, public vote/re-vote API, admin-side create/edit and stats, Excel export, and its own test suite.
 
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 </td>
 </tr>
@@ -59,8 +59,7 @@ Built automated translation support (Khmer, Spanish, via Azure Translator) for u
 |---|---|
 | Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
 | Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) |
-| Infra / Observability | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) |
-| AI Tooling | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white) |
+| AI Tooling | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) |
 
 ## Contributions
 
@@ -76,12 +75,13 @@ Built automated translation support (Khmer, Spanish, via Azure Translator) for u
 ```js
 const daniel = {
   role: "Fullstack Engineer, Frontend-heavy",
+  company: "Crest",
   location: "Korea",
   focus: [
     "Frontend design systems & architecture",
     "AI-assisted testing workflows",
     "Backend concurrency & reliability",
-    "Multi-language localization",
+    "End-to-end feature ownership",
   ],
 };
 ```
