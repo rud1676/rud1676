@@ -1,93 +1,28 @@
-# Hi, I'm Daniel
+# 주경진 (Daniel)
 
-## What I'm Building
+나의 영역에서 문제를 정의하는 개발자입니다.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+주어진 일을 처리하기보다, 무엇이 문제인지부터 묻고 스스로 풀어 가는 일을 좋아합니다.<br/>
+지금은 주로 인프라 쪽에서 그 질문들을 풀고 있습니다.
 
-### Frontend Design System & Navigation Architecture
-
-Built and maintained shared UI primitives (buttons, text fields, bottom sheets) across a large-scale React codebase, and led a refactor from drawer-based flows to router-based navigation for more maintainable state and deep-linking.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### AI-Assisted Testing Workflows
-
-Authored custom Claude Code Skills (`scenario-test`, `unit-test`) that encode the team's testing conventions — scenario coverage tied to policy changes — into a repeatable, automated workflow.
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Backend Concurrency & Reliability
-
-Diagnosed and fixed deadlocks via request serialization, and resolved race conditions in S3 pre-signed upload flows under concurrent access in a production Node.js/MySQL backend.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### End-to-End Feature Ownership: Voting System
-
-Designed and shipped a voting feature from the ground up — schema and migrations, public vote/re-vote API, admin-side create/edit and stats, Excel export, and its own test suite.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-## Tech Stack
-
-| Category | Stack |
-|---|---|
-| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white) ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) |
-| AI Tooling | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) |
-
-## Contributions
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rud1676&theme=react-dark)
-
-## GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/rud1676?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)
-![GitHub stars](https://img.shields.io/github/stars/rud1676?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)
-
-## $ whoami
-
-```js
-const daniel = {
-  role: "Fullstack Engineer, Frontend-heavy",
-  company: "Crest",
-  location: "Korea",
-  focus: [
-    "Frontend design systems & architecture",
-    "AI-assisted testing workflows",
-    "Backend concurrency & reliability",
-    "End-to-end feature ownership",
-  ],
-};
-```
+📝 [kyungjin.dev](https://kyungjin.dev)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=rud1676&color=blue)
+<!-- POSTS:START -->
+### 🛠 Work <sub>일하며 겪은 문제 · [더보기](https://kyungjin.dev/posts/category/work/)</sub>
 
-*"Automate the workflow. Go deep on the product."*
+- [운영 중인 DB의 민감정보 평문을 무중단으로 암호화했다 — 키 관리부터 평문 DROP까지](https://kyungjin.dev/posts/plaintext-encryption-forbidden-rules/) <sub>2026-11-04</sub>
+
+### 🧪 Side <sub>개인 프로젝트에서 배운 것 · [더보기](https://kyungjin.dev/posts/category/side/)</sub>
+
+- [블로그를 직접 띄우며 한 고민들](https://kyungjin.dev/posts/building-this-blog/) <sub>2026-11-06</sub>
+- [파드는 교체됐는데, 이메일 인증번호는 어디로 갔을까?](https://kyungjin.dev/posts/pod-rolling-update-email-code/) <sub>2026-10-31</sub>
+- [[Next.js & Netlify] 테스트 API 서버 배포 및 문제 해결](https://kyungjin.dev/posts/nextjs-netlify-test-api-server/) <sub>2024-06-07</sub>
+
+### 📚 Study <sub>따로 공부한 기록 · [더보기](https://kyungjin.dev/posts/category/study/)</sub>
+
+- [[DeepDiveJS] 클래스](https://kyungjin.dev/posts/deepdive-js-12-class/) <sub>2024-06-07</sub>
+- [[DeepDiveJS] 실행컨텍스트, 클로저](https://kyungjin.dev/posts/deepdive-js-11-execution-context/) <sub>2024-06-01</sub>
+- [[DeepDiveJS] Strict, 빌트인 객체, this](https://kyungjin.dev/posts/deepdive-js-10-strict-builtin-this/) <sub>2024-05-30</sub>
+<!-- POSTS:END -->
